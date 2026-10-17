@@ -21,9 +21,11 @@
 Built with Python and traditional Natural Language Processing (NLP) techniques, ResearchLens performs text analysis **without using Large Language Models (LLMs)** or requiring a labeled training dataset.
 
 
+
 <p align="center">
-  <img src="home_page(2).png" alt="Language Detectior Homepage" width="850">
+  <img src="./home_page%20(2).png" alt="ResearchLens Application Dashboard" width="850">
 </p>
+
 
 ## 🌐 Live Demo
 
