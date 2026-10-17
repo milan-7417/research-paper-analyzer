@@ -29,7 +29,7 @@ Built with Python and traditional Natural Language Processing (NLP) techniques, 
 
 ## 🌐 Live Demo
 
-**Try ResearchLens online:** [Launch ResearchLens on Streamlit](https://share.streamlit.io/)
+**Try ResearchLens online:** [Launch ResearchLens on Streamlit](https://research-paper-analyzer-45.streamlit.app/)
 
 
 ## ✨ Features
